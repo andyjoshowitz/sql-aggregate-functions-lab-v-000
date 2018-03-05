@@ -5,4 +5,3 @@ CREATE TABLE students
     gpa FLOAT,
     tardies INTEGER);
 
-SELECT MAX(gpa) FROM students;
